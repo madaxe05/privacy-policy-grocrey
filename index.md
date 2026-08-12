@@ -1,13 +1,9 @@
 # Privacy Policy — Grocressy
 
-**Last updated: 10 August 2026**
+**Last updated: 13 August 2026**
 
 Grocressy keeps your shopping data on your device. It has no account
 system and no server.
-
-This document is the same policy shown inside the app under
-**Settings → Privacy**. Publish it at a public URL and link that URL in
-the Google Play listing.
 
 ---
 
